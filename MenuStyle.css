@@ -1,0 +1,18 @@
+li
+{
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+
+#navmenu
+{
+    Position: sticky;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    background-color: #900C3F;
+    top: 0px;
+    font-size: 250%;
+}

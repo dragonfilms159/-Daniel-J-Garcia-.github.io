@@ -1,0 +1,23 @@
+a:link {
+    color: whitesmoke;
+    background-color: #900C3F;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: whitesmoke;
+    background-color: #900C3F;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #040F16;
+    background-color: #900C3F;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #DDBDD5;
+    background-color: #900C3F;
+    text-decoration: solid;
+  }
