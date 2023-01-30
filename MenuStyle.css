@@ -15,4 +15,5 @@ li
     background-color: #900C3F;
     top: 0px;
     font-size: 250%;
+    z-index: 1;
 }
